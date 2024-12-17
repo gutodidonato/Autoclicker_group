@@ -20,7 +20,7 @@
 ### Uso Responsável
 
 - Este aplicativo deve ser utilizado apenas em ambientes onde você tenha permissão para interagir com a interface gráfica do usuário.
-- O uso do Vortex em aplicativos de terceiros ou em sistemas que não são de sua propriedade pode violar os termos de serviço desses aplicativos ou sistemas.
+- O uso em aplicativos de terceiros ou em sistemas que não são de sua propriedade pode violar os termos de serviço desses aplicativos ou sistemas.
 - O desenvolvedor não se responsabiliza por qualquer uso indevido do aplicativo, incluindo, mas não se limitando a, automação de tarefas em softwares que proíbem esse tipo de interação.
 
 ### Direitos Autorais
